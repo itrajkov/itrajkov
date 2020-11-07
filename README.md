@@ -1,7 +1,10 @@
 <h2> Yo wassup! ✌️ </h2>
 
  
-  - OS: Linux
+  - OS: Arch Linux
+  - Window Manager: i3wm
+  - Terminal emulator: kitty
+  - Shell: zsh
   - Text editor: Emacs
   - Programming languages:  Python, JavaScript, C#, C++ (and some Java)
   - Frameworks:
