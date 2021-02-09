@@ -6,7 +6,7 @@
   - Terminal emulator: kitty
   - Shell: zsh
   - Text editor: Emacs
-  - Programming languages:  Python, JavaScript, C#, C++ (and some Java)
+  - Programming languages:  Python, JavaScript, C#, C++, Dart, Java (and some Java)
   - Frameworks:
     - Frontend: Vue.js
     - Backend: Flask, Bottle (some Django)
