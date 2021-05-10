@@ -12,7 +12,7 @@
     - Backend: Flask, Bottle (some Django)
    
    
-  ❤ My main interests are data science, artificial intelligence and low level stuff ❤
+  ❤ My main interests are artificial intelligence and low level stuff ❤
    
   ### You can check my dotfiles out [here](https://github.com/ivche1337/dotfiles)
     
