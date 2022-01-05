@@ -6,13 +6,6 @@
 - [<img align="left" alt="ethereum.org" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png"/>][etherum] Blockchain development
 - [<img align="left" alt="unity.com" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" />][unity] Game development 
 
-## Connect with me
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br/>
 
 ## Languages and Tools:
   - OS: Arch Linux
@@ -25,6 +18,11 @@
     - Frontend: Vue.js, Angular 2
     - Backend: Flask, Express.js
 
+## Connect with me
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
      
 [website]: https://trajkov.tech
 [twitter]: https://twitter.com/itrajkov99
