@@ -5,7 +5,8 @@
 ## 2021 Goals
 <img align="left" alt="ethereum.org" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png"/> Blockchain development
 <br/>
-<img align="left" alt="unity.com" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" /> Game development
+<img align="left" alt="unity.com" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" /> Game development 
+<br/>
 
 ## Connect with me
 
