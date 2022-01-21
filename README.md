@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/itrajkov99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitrajkov&screen_name=itrajkov99)
 
-## 2021 Goals
+## 2022 Goals
 - [<img align="left" alt="ethereum.org" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png"/>][etherum] Blockchain development
 - [<img align="left" alt="unity.com" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" />][unity] Game development 
 
