@@ -1,6 +1,6 @@
 ## Yo wassup, I'm Ivan ✌️
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ivche_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitrajkov&screen_name=itrajkov99)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ivche_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitrajkov&screen_name=ivche_dev)
 
 ## 2023 Goals
 - [<img align="left" alt="ethereum.org" width="22px" src="https://stickershop.line-scdn.net/stickershop/v1/product/1349132/LINEStorePC/main.png"/>][golang] Golang
