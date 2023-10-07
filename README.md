@@ -1,7 +1,7 @@
 ## Yo wassup, I'm Ivan ✌️
 
 I'm a Computer Science student and a Software Engineer out of North Macedonia, currently working in the blockchain technology space.
-I have an obsession with technology and a never-ending itch to learn and build things so my goal is to have my Github as a reflection of that.
+I have an obsession with technology and a never-ending itch to learn and build things so ideally my Github should be a reflection of that.
 You will find various projects of varying quaility here depending on my skill level at the time in the field it is exercising.
 
 My goal is to become a valued engineer in the open source community ❤️
