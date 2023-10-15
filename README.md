@@ -11,7 +11,7 @@ My goal is to become a valued engineer in the open source community ❤️
 ## 2024 Goals
 - [<img align="left" alt="ethereum.org" width="22px" src="https://stickershop.line-scdn.net/stickershop/v1/product/1349132/LINEStorePC/main.png"/>][golang] Golang
 - [<img align="left" alt="unity.com" width="22px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png"/>][aws] AWS
-- [<img align="left" alt="unity.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />][react] React
+
 
 
 ## Languages and Tools:
@@ -33,7 +33,7 @@ My goal is to become a valued engineer in the open source community ❤️
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
      
 [website]: https://ivche.dev
-[twitter]: https://twitter.com/itrajkov99
+[twitter]: https://twitter.com/ivche_dev
 [linkedin]: https://linkedin.com/in/itrajkov
 [golang]: https://go.dev/
 [aws]: https://aws.amazon.com/
