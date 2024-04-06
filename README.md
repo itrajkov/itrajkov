@@ -16,7 +16,7 @@ My goal is to become a valued engineer in the open source community ❤️
 
 ## Languages and Tools:
   - OS: Arch Linux
-  - Window Manager: i3
+  - Window Manager: Hyprland
   - Terminal emulator: alacritty
   - Shell: zsh
   - Text editor: Doom Emacs
