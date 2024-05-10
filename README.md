@@ -8,11 +8,9 @@ My goal is to become a valued engineer in the open source community ❤️
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ivche_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitrajkov&screen_name=ivche_dev)
 
-## 2024 Goals
+## Focus of 2024
 - [<img align="left" alt="rustlang.org" width="22px" src="https://chinese.freecodecamp.org/news/content/images/2021/02/rust-mascot.png"/>][rust] Rust
-- [<img align="left" alt="aws.com" width="22px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png"/>][aws] AWS
-
-
+- [<img align="left" alt="aws.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>][c] C
 
 ## Languages and Tools:
   - OS: Arch Linux
@@ -20,7 +18,7 @@ My goal is to become a valued engineer in the open source community ❤️
   - Terminal emulator: alacritty
   - Shell: zsh
   - Text editor: Doom Emacs
-  - Programming languages: Python, TypeScript, C#, C++, C, Lisp, Java, Solidity
+  - Programming languages: Python, TypeScript, C, C++, C#, Lisp, Java, Solidity
 
 ## Connect with me
 
@@ -32,4 +30,4 @@ My goal is to become a valued engineer in the open source community ❤️
 [twitter]: https://twitter.com/ivche_dev
 [linkedin]: https://linkedin.com/in/itrajkov
 [rust]: https://rustlang.org/
-[aws]: https://aws.amazon.com/
+[c]: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
