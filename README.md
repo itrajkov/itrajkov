@@ -18,7 +18,7 @@ My goal is to become a valued engineer in the open source community ❤️
   - Terminal emulator: alacritty
   - Shell: zsh
   - Text editor: Doom Emacs
-  - Programming languages: Python, TypeScript, C, C++, C#, Lisp, Java, Solidity
+  - Programming languages: Python, TypeScript, Rust, Go, C, C#, Lisp, Java, Solidity
 
 ## Connect with me
 
