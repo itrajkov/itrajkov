@@ -30,4 +30,4 @@ My goal is to become a valued engineer in the open source community ❤️
 [twitter]: https://twitter.com/ivche_dev
 [linkedin]: https://linkedin.com/in/itrajkov
 [rust]: https://rustlang.org/
-[c]: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
+[go]: https://go.dev
