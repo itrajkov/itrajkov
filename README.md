@@ -10,7 +10,7 @@ My goal is to become a valued engineer in the open source community ❤️
 
 ## Focus of 2024
 - [<img align="left" alt="rustlang.org" width="22px" src="https://chinese.freecodecamp.org/news/content/images/2021/02/rust-mascot.png"/>][rust] Rust
-- [<img align="left" alt="go.dev" width="22px" src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png"/>][c] Go
+- [<img align="left" alt="go.dev" width="22px" src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png"/>][go]Go
 
 ## Languages and Tools:
   - OS: Arch Linux
